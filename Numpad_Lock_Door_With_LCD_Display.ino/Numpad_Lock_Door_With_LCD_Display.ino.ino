@@ -6,7 +6,7 @@
 const int rs = 13, e = 12, d4 = 11, d5 = 10, d6 = 9, d7 = 8;
 LiquidCrystal lcd(rs, e, d4, d5, d6, d7);
 
-Password password = Password("1234");   //our passwords
+Password password = Password("0000");   //our passwords
 
 int ledGreen = 18;    //initialize pinout for green
 int ledRed = 19;    //initialize pinout for red
