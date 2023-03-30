@@ -8,3 +8,6 @@ The project is relatively easy to set up and can be customized for various use c
 
 # Electronic circuit design
 ![Screenshot 2023-03-30 111338](https://user-images.githubusercontent.com/79251871/228727569-4290a1d1-ceae-4807-8329-f22e129c0224.jpg)
+
+# Youtube Link
+https://www.youtube.com/watch?v=yns6TfAqtUA
